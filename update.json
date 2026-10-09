@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "installer": "https://github.com/YoannSLRD/EasyPDF-updates/releases/download/v1.1.0/EasyPDF-setup-1.1.0.exe",
-  "sha256": "ced24d76d267768adfca94afbaeb2f4698e0d27b0e1422d418b655af15128a39",
-  "notes": "Mode simplifié par défaut : écran unique Mon document."
+  "version": "1.1.1",
+  "installer":https://github.com/YoannSLRD/EasyPDF-updates/releases/download/v1.1.1/EasyPDF-setup-1.1.1.exe.1",
+  "sha256"sha256:6c98ec3171aa96b0a4be22dd26e3a8f5c0528449af9a357f8ee9be1120c69e97IEE",
+  "notes": "Correctif du rognage (position exacte, pages déjà rognées ou pivotées)."
 }
